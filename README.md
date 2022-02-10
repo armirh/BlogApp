@@ -1,7 +1,4 @@
 # BlogApp
-Creating a Blog App using Django
-
-# BlogApp
 
 
 Creating a Blog with Django
@@ -16,9 +13,9 @@ Creating a Blog with Django
 # PROJECT SETUP
 4. create a dir
     -mkdir mysite
-    # locate to the mysite folder
+    $locate to the mysite folder
     -cd mysite
-    # create a django project
+    $create a django project
     -django-admin startproject mysite
 - Now your django project structure should look like this 
 
